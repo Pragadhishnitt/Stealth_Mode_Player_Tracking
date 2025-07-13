@@ -148,7 +148,7 @@ python custom_deepsort.py   #(for running using custom deepsort tracker)
 
 ## Folder Structure
 
-<img width="685" height="250" alt="image" src="https://github.com/user-attachments/assets/de39eb93-b05c-4ee2-8f7f-182a1d91a9ca" />
+<img width="685" height="250" alt="image" src="https://github.com/user-attachments/assets/bb7d81cc-20fd-46cd-82bb-e1b5a4289223" />
 
 ## Output
 
