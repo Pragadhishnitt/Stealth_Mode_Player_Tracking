@@ -117,7 +117,7 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-4. 
+4. Install dependancies
 
 **(can comment the ones not needed if running specific program)**
 
