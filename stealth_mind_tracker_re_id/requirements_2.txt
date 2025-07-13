@@ -1,0 +1,20 @@
+## Core dependancies are always needed for all trackers. Can avoid usage of others by commenting them while installation when run specifically
+
+# Core dependencies
+ultralytics
+opencv-python-headless
+torch 
+
+# For DeepSort Realtime tracker
+deep_sort_realtime
+
+# For Custom DeepSort tracker (MARS encoder & Kalman filtering)
+scikit-image 
+filterpy 
+scikit-learn
+tensorflow # Required for mars-small128.pb
+
+# Optional: for development or debugging
+# matplotlib
+# tqdm
+
