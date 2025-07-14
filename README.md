@@ -153,6 +153,8 @@ python custom_deepsort.py   #(for running using custom deepsort tracker)
 ## Output
 
 Each script saves an annotated output video with bounding boxes and IDs for each tracked object.
+A report on this project is done which can be checked out for more details .
+Report link : https://drive.google.com/file/d/1H-StVlUNTJWu8bjNJvwiEsq7JAMwhov6/view?usp=sharing
 
 ---
 
